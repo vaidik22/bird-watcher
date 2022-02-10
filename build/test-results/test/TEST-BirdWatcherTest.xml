@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BirdWatcherTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-10T18:52:42" hostname="DESKTOP-7TDS4BU" time="0.139">
+  <properties/>
+  <testcase name="itTestGetLastWeek" classname="BirdWatcherTest" time="0.139"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
